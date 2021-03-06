@@ -1,7 +1,7 @@
 <h2>Greetings</h2>
 <p>
   <a href="https://github.com/LarsBodewig?tab=repositories">
-    <img align="right" alt="Check out my repositories" title="Language Usage Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsBodewig">
+    <img align="right" alt="Check out my repositories" title="Language Usage Statistics" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarsBodewig&hide=python">
   </a>
 </p>
 <p>
