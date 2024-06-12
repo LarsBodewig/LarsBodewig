@@ -13,6 +13,6 @@
 <p>
   For job offers or inquiries, consider contacting me on&#8239;
   <a href="https://www.linkedin.com/in/LarsBodewig/">
-    <img width="98" title="LinkedIn" align="top" src="https://github.com/LarsBodewig/LarsBodewig/raw/main/resources/LinkedIn-Logos/LI-Logo.png">
+    <img width="85" title="LinkedIn" align="top" src="https://github.com/LarsBodewig/LarsBodewig/raw/main/resources/LinkedIn-Logos/LI-Logo.png">
   </a>
 </p>
